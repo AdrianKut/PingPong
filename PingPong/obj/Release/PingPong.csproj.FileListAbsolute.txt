@@ -1,0 +1,14 @@
+K:\Programowanie\PingPong\PingPong\bin\Release\PingPong.exe.config
+K:\Programowanie\PingPong\PingPong\bin\Release\PingPong.exe.manifest
+K:\Programowanie\PingPong\PingPong\bin\Release\PingPong.application
+K:\Programowanie\PingPong\PingPong\bin\Release\PingPong.exe
+K:\Programowanie\PingPong\PingPong\bin\Release\PingPong.pdb
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.csprojAssemblyReference.cache
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.Form1.resources
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.Properties.Resources.resources
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.csproj.GenerateResource.cache
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.csproj.CoreCompileInputs.cache
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.exe.manifest
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.application
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.exe
+K:\Programowanie\PingPong\PingPong\obj\Release\PingPong.pdb
